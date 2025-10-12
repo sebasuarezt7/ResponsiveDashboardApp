@@ -1,10 +1,10 @@
 # Responsive Dashboard App - Lab 4
 ## Student Information
-- **Name:** [Your Full Name]
-- **Student ID:** [Your ID]
+- **Name:** Sebastian Suarez
+- **Student ID:** n01706712
 - **Course:** CPAN 213
 - **Lab:** Lab 4 - Responsive Layouts with Flexbox
-- **Date:** September 23, 2025
+- **Date:** October 11, 2025
 ## Project Description
 This responsive dashboard application demonstrates advanced Flexbox layout techniques,
 responsive design patterns, and platform-specific styling in React Native.
